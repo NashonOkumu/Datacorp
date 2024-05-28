@@ -6,6 +6,30 @@ Our objective is clear: build a robust machine learning model that predicts the 
 
 DATA UNDERSTANDING
 
+The dataset provided contains anonymized information about candidates'
+demographics, education, experience, and other relevant features. It includes features such
+as city development index, gender, relevant experience, education level, major discipline,
+total experience, company size, company type, last new job, and training hours. The target
+variable indicates whether a candidate is looking for a job change (1) or not (0).
+
+Features
+● enrollee_id : Unique ID for candidate.
+● city: City code.
+● city_ development _index : Development index of the city (scaled).
+● gender: Gender of candidate
+● relevent_experience: Relevant experience of candidate
+● enrolled_university: Type of University course enrolled if any
+● education_level: Education level of candidate
+● major_discipline :Education major discipline of candidate
+● experience: Candidate total experience in years
+● company_size: No of employees in current employer's company
+● company_type : Type of current employer
+● last_new_job: Difference in years between previous job and current job
+● training_hours: training hours completed
+● target: 0 – Not looking for job change, 1 – Looking for a job change
+
+DATA PREPARATION
+
 ![image](https://github.com/NashonOkumu/Datacorp/assets/66790358/48051ff0-e3a0-40f4-8f3c-0bdc4c198f34)
 
 ![image](https://github.com/NashonOkumu/Datacorp/assets/66790358/6f346bac-4cea-4548-a006-3d06a3c8f4f3)
