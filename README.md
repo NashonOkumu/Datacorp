@@ -48,6 +48,12 @@ DATA PREPARATION
 
 ![image](https://github.com/NashonOkumu/Datacorp/assets/66790358/40563e1d-c531-440d-a234-6c9d623f615d)
 
+MODELLING
+
+We Use a Random Forest Classifier to build our model.
+
+EVALUATION
+
 <img width="343" alt="image" src="https://github.com/NashonOkumu/Datacorp/assets/66790358/73946520-2d49-485e-bbce-751b74f77cb8">
 
 
