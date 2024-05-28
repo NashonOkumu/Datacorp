@@ -1,0 +1,4 @@
+BUSINESS UNDERSTANDING
+Employee turnover poses significant challenges for companies, including increased costs associated with recruitment, training, and lost productivity. By accurately predicting which candidates are more inclined to remain with DataCorp after completing their training program, we aim to optimize our training initiatives, reduce turnover costs, and enhance candidate categorization.
+
+Our objective is clear: build a robust machine learning model that predicts the probability of a candidate seeking a new job or staying with DataCorp post-training. Leveraging demographic, educational, and experiential attributes of candidates, this model will enable us to allocate resources effectively, focus on candidates more likely to stay, and ultimately enhance the quality and efficiency of our training programs.
